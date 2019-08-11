@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/bunsnesse/LIRIbot/issues"
   },
-  "homepage": "https://github.com/bunsnesse/LIRIbot#readme"
+  "homepage": "https://github.com/bunsnesse/LIRIbot#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.1.1"
+  }
 }
